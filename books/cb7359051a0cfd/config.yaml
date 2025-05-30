@@ -1,0 +1,7 @@
+title: "クリーンアーキテクチャーなGo開発"
+summary: "gqlgenとsqlcを用いてクリーンアーキテクチャーを意識した開発をしました。\n最初からlocalで動かすところまで解説してるので参考になれば嬉しいです。"
+topics: ["go","gqlgen","sqlc","docker","cleanarchitecture"] # トピック（5つまで）
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters: []
