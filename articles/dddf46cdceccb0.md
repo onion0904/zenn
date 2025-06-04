@@ -3,7 +3,7 @@ title: "並行処理を使って画像処理[golang]"
 emoji: "🏎️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["go","image","concurrency"]
-published: false
+published: true
 ---
 
 # まず
