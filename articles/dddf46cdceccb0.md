@@ -10,8 +10,6 @@ published: true
 こちらの記事は私が足りていないと思う所を重点的に勉強する。
 onion7日間チャレンジのDay2になります。
 詳しくは[ここ](https://zenn.dev/onion0904/articles/ff700890522030)の冒頭で書いてあるので気になる人は見てみてください。
-Day1↓
-@[card](https://zenn.dev/onion0904/articles/ff700890522030)
 
 
 # 作ったもの
@@ -64,6 +62,13 @@ input size: 100 200
 並行処理に関しては、以下にまとめた
 @[card](https://github.com/onion0904/day-two-concurrency/tree/main/docs)
 
+
+
+# Day1↓
+@[card](https://zenn.dev/onion0904/articles/ff700890522030)
+
+# Day3↓
+@[card](https://zenn.dev/onion0904/articles/1c441df9070736)
 
 ## 参考資料
 [Goの並行処理入門](https://tech.yappli.io/entry/goroutine-base)
